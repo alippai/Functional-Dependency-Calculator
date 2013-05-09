@@ -1,2 +1,2 @@
 #!/bin/sh
-swipl -f ws.pl -g start
+nohup swipl -f ws.pl -g start &
